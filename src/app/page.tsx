@@ -103,7 +103,8 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="text-center">
-        <h1 className="text-4xl font-bold">{`Hi, I'm Dennis`}</h1>
+       <h1 className="text-4xl font-bold">Hi, I&apos;m Dennis</h1>
+
         <p className="mt-4 text-lg text-gray-600">
           Backend Engineer | Java • Spring Boot • Kafka • PostgreSQL •
           Microservices
