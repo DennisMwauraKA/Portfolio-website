@@ -140,7 +140,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold mb-6 text-center">About Me</h2>
         <div className="bg-white p-6 rounded-lg shadow-sm">
           <p className="text-gray-700 mb-4">
-            I'm a backend engineer with 2+ years of experience building scalable
+           A backend engineer with 2+ years of experience building scalable
             systems with Spring Boot and Java. I specialize in designing robust
             APIs, optimizing database performance, and implementing secure
             authentication systems.
