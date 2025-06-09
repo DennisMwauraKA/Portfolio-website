@@ -103,7 +103,7 @@ export default function Home() {
 
       {/* Hero Section */}
       <section className="text-center">
-       <h1 className="text-4xl font-bold">Hi, I&apos;m Dennis</h1>
+       <h1 className="text-4xl font-bold">Hi,Meet Dennis</h1>
 
         <p className="mt-4 text-lg text-gray-600">
           Backend Engineer | Java • Spring Boot • Kafka • PostgreSQL •
@@ -135,7 +135,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Section - Keep your existing about section */}
+      {/* About Section  */}
       <section id="about" className="scroll-mt-16">
         <h2 className="text-3xl font-bold mb-6 text-center">About Me</h2>
         <div className="bg-white p-6 rounded-lg shadow-sm">
